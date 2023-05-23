@@ -1,0 +1,69 @@
+ *{
+        margin: 0;
+        padding: 0;
+        }
+        
+        .bg{
+            background-color: black;
+            color:white;
+            margin: 0;
+            padding: 3vh 0;
+            display:flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content:space-evenly;
+        }
+        .nav{
+            background-color: black;
+            color:white;
+            margin: 0;
+            padding: 1rem;
+            /* width:100%; */
+        }
+        .bg div{
+            padding:1vw ;
+        }
+        div h2{
+            text-align: center;
+        }
+        #font{
+             font-size: 50px; color:rgb(255, 0, 0); text-align: center;
+        }
+        .name{
+            background-color:bisque; color:chocolate; 
+            /* font-size:8vh; */
+            font-size: 150px;
+            margin: 0;
+            padding: 0;
+        }
+        .footer{
+            background-color:peachpuff;
+        }
+        .contact{
+            background-color:burlywood;
+            color:white;
+        }
+        .design{
+            text-decoration: none;
+            color: white;
+            padding:0.5rem;
+        }
+        .bg h2{
+            margin-bottom: 2vh;
+        }
+        div{
+            position: relative;
+            left: auto;
+            margin: 0.5rem;
+        }
+        div img{
+            flex-shrink: 10;
+            max-width:400px; max-height:342px;
+            min-width:350px; min-height:342px;
+        }
+        footer a{
+            text-decoration: none;
+        }
+        .divider{
+            font-size: xxx-large;
+        }
